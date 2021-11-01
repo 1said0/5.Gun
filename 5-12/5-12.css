@@ -1,0 +1,9 @@
+body {
+    margin:0;
+  }
+  
+  .box {
+    background-color: rgb(26, 141, 194);
+    width: 100vmin;
+    height: 100vmin;
+  }
