@@ -1,6 +1,8 @@
-img  nth-child 1{ 
-    visibility:hidden ;}
 
+
+img:nth-child(1) {
+    visibility:hidden ;
+}
     
 
  
